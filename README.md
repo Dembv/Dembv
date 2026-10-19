@@ -36,11 +36,26 @@ Sanar, Saint-Louis, Sénégal
 
 ---
 
-## Entrepreneuriat et recherche
-
-- **GIE DAWAL** (depuis juin 2026) : co-fondation, pilotage administratif et juridique. Produits en cours : **Baago**, réservation de taxi interurbain Saint-Louis - Dakar avec paiement mobile Wave / Orange Money, et une **auto-école digitale** bilingue français / wolof pour apprendre le code de la route
-- **« Thèse à Impact »** (2026) : base de données de valorisation de la recherche, qui recense les mémoires et thèses et évalue leur potentiel de valorisation selon une grille à critères. Projet binational Sénégal - Éthiopie
-
+## Autres projets
+ 
+Projets réalisés au Centre de Calcul Ousmane Seck (CCOS) de l'UGB, au sein du GIE DAWAL et dans le cadre de la recherche. Ils ne sont pas publics sur GitHub.
+ 
+| Projet | Contexte | Description | Technologies |
+|--------|----------|-------------|--------------|
+| **Système d'Information de la Recherche (SIR-UGB)** | CCOS (UGB), stage de fin d'études, depuis juil. 2026 | Conception et mise en place du système de gestion et de valorisation de l'information de recherche de l'université : API REST sécurisée avec habilitations RBAC, tableau de bord analytique (H-index, production, qualité Q1-Q4, collaboration internationale, encadrement doctoral), maquettage Figma, et module de veille et de recommandation des opportunités de financement scientifique par NLP / ML | Spring Boot 3.3, Java 21, JHipster, PostgreSQL 16, Keycloak (OAuth2 / OIDC), Liquibase, Testcontainers, Angular 19, ngx-echarts, Python (sentence-transformers, transformers, scikit-learn, spaCy) |
+| **Refonte du système d'information de l'UGB (e-UGB)** | CCOS (UGB), développeur frontend, avr. - sept. 2025 | Modernisation du système numérique central de l'université : interfaces responsives conformes aux normes W3C, intégration et optimisation d'API REST Spring Boot, modules services indépendants (architecture microservices), pipelines CI/CD et déploiement conteneurisé | Angular, Figma, Spring Boot, Git, Jenkins, Docker |
+| **Gestion d'événements scientifiques** | CCOS (UGB), stage, fév. - mai 2025 | Plateforme web pour l'organisation de conférences et de colloques universitaires : analyse des besoins, modélisation UML, prototypage UI/UX et API REST | Angular, Spring Boot (Java), Figma, UML |
+| **Portail du laboratoire LACPU et annuaire des laboratoires de recherche** | CCOS (UGB), stage, fév. - mai 2025 | Site institutionnel du laboratoire LACPU et site annuaire des laboratoires de recherche de l'UGB | WordPress, HTML, CSS, Bootstrap, JavaScript, Figma |
+| **Comptabilité des matières** | CCOS (UGB), stage, août - nov. 2024 | Pilotage du cycle complet de développement d'une application universitaire, de la conception UI/UX à l'implémentation : analyse des besoins, modélisation UML, frontend et API | Angular, Laravel, Git, Figma, UML |
+| **Portail du laboratoire LANI** | CCOS (UGB), stage, août - nov. 2024 | Site institutionnel du laboratoire LANI et plugin personnalisé pour la gestion des données académiques (chercheurs, thèses, mémoires) | WordPress, PHP, Figma |
+| **Baago** | GIE DAWAL | Réservation de taxi interurbain Saint-Louis - Dakar : réservation sans compte, gestion des colis et des départs, back-office à 2 rôles (admin et manager), paiement mobile Wave / Orange Money et confirmation par SMS | Next.js, TypeScript, React, Tailwind CSS, PostgreSQL (Prisma) |
+| **DAWAL, auto-école digitale** | GIE DAWAL | Plateforme bilingue français / wolof d'apprentissage du code de la route : cours structurés, quiz et examens blancs, annuaire d'auto-écoles partenaires et inscription en ligne | React, Vite, TypeScript, Tailwind CSS ; NestJS, PostgreSQL (Prisma), Redis, architecture DDD / Clean Architecture |
+| **JOKKOL Express (Livraison UGB)** | Vie étudiante | Livraison de repas pour les étudiants de l'UGB : commande depuis les restaurants du campus social, livreurs rattachés à la plateforme, tarification par secteur, authentification par téléphone et OTP SMS, paiement tracé (Wave, Orange Money, espèces) | Next.js, PostgreSQL (Prisma), Tailwind CSS, Vercel |
+| **« Thèse à Impact »** | Recherche, 2026 | Base de données de valorisation de la recherche : recense les mémoires de master et les thèses, évalue leur potentiel de valorisation selon une grille à 6 critères et met en relation les travaux prometteurs avec des partenaires industriels. Projet binational Sénégal - Éthiopie, bilingue FR / EN | Django 5, Django REST Framework, PostgreSQL, HTMX, Alpine.js, Tailwind CSS, Figma |
+| **Woyofal Santé** | Santé numérique | Plateforme de prévention, d'éducation thérapeutique et de suivi du diabète et de l'hypertension au Sénégal, pensée pour des patients peu à l'aise avec le numérique. Prototype mobile : suivi de la glycémie et de la tension avec graphiques, messagerie patient - soignant, interface multilingue | Flutter (Dart), Figma |
+ 
+**GIE DAWAL** (depuis juin 2026) : j'en suis le co-fondateur et le Secrétaire Général, en charge du pilotage administratif et juridique (statuts, règlement intérieur).
+ 
 ---
 
 ## Compétences techniques
