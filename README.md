@@ -37,7 +37,7 @@ Sanar, Saint-Louis, Sénégal
 
 ---
 
-## Autres projets
+## Autres projets (10)
 
 Projets réalisés au Centre de Calcul Ousmane Seck (CCOS) de l'UGB, au sein du GIE DAWAL et dans le cadre de la recherche. Ils ne sont pas publics sur GitHub.
 
