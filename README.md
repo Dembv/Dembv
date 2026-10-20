@@ -143,4 +143,4 @@ Ouvert aux collaborations autour de projets à impact.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dembv-181717?style=for-the-badge&logo=github)](https://github.com/Dembv)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://demba-hamet-guisse.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Me_écrire-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guissedembahamet@gmail.com)
+[![Email](https://img.shields.io/badge/Email-écrire-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guissedembahamet@gmail.com)
